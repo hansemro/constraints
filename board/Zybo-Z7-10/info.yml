@@ -1,0 +1,6 @@
+Label: Zybo Z7-10
+PartNumber: 410-351-10
+Device: XC7Z010-1C
+Package: CLG400
+Documentation:
+  "digilentinc.com: Zybo Z7: Zynq-7000 SoC Development Board": https://digilent.com/shop/zybo-z7-zynq-7000-arm-fpga-soc-development-board/ 
